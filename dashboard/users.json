@@ -1,0 +1,16 @@
+{
+ "gokul": {
+  "salt": "05c1764f985b342b09d4fd76bed30753",
+  "hash": "c8bcbf982292ae1d8f4f506b79a83cf8c30bf6277ad5e4dc553c79dae6da27e6",
+  "created": "2026-10-23",
+  "history": [
+   {
+    "date": "2026-10-23 12:09",
+    "role": "QA/Test Engineer",
+    "readiness": 4.0,
+    "skills": 2,
+    "missing": 8
+   }
+  ]
+ }
+}

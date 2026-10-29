@@ -1,0 +1,31 @@
+"skill","pct_diff","t_value","p_value"
+"Artificial Intelligence",8.16,3.47,0.00053
+"Kubernetes",7.84,2.59,0.00965
+"Linux",7.38,3.6,0.000322
+"Machine Learning",6.45,2.35,0.019
+"Python",6.41,3.87,0.000109
+"Data Structures",6.37,2.66,0.00794
+"JavaScript",6.3,2.9,0.00379
+"ETL",6.15,2.34,0.0196
+"C++",4.73,1.94,0.0523
+"Project Management",4.63,2.24,0.0252
+"Stakeholder Management",4.06,2.61,0.00905
+"System Design",3.58,1.63,0.103
+"Networking",3.38,1.77,0.0764
+"Business Analysis",3.18,1.69,0.0908
+"AWS",2.83,1.56,0.12
+"CI/CD",2.82,1.33,0.185
+"Cybersecurity",0.71,0.27,0.787
+"Java",0.02,0.01,0.992
+"Data Analysis",-0.38,-0.18,0.857
+"Data Visualization",-0.58,-0.25,0.804
+"Azure",-0.61,-0.34,0.738
+"Docker",-0.67,-0.25,0.803
+"Statistics",-0.75,-0.31,0.757
+"Compliance",-0.88,-0.57,0.572
+"Agile",-1.11,-0.74,0.462
+"Cloud Computing",-1.55,-0.69,0.488
+"REST APIs",-3.65,-1.62,0.105
+"SQL",-4.84,-3.05,0.00229
+"Git",-8.23,-4.27,1.98e-05
+"Technical Support",-12.28,-7.66,2.55e-14

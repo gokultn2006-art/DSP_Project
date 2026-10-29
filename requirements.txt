@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+rapidfuzz
+pillow
+streamlit
+pdfplumber
+python-docx
+joblib

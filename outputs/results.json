@@ -1,0 +1,1031 @@
+{
+  "data": {
+    "raw_postings": 123849,
+    "role_postings": 10424,
+    "roles": 14,
+    "skills": 133,
+    "postings_per_role": {
+      "Data Scientist": 351,
+      "ML/AI Engineer": 267,
+      "Data Analyst": 627,
+      "Data Engineer": 510,
+      "Business Analyst": 781,
+      "Full Stack Developer": 418,
+      "Frontend Developer": 405,
+      "Mobile Developer": 152,
+      "Cybersecurity Analyst": 681,
+      "DevOps/Cloud Engineer": 665,
+      "QA/Test Engineer": 811,
+      "Database Administrator": 278,
+      "Network/Systems Admin": 1177,
+      "Software Engineer": 3301
+    },
+    "resume_rows": 9544,
+    "unique_resumes": 344,
+    "labelled_resumes": 159,
+    "posting_skills_exact": 4.979374520337682,
+    "posting_skills_alias": 7.1464888718342285,
+    "posting_zero_exact": 0.09804297774366846,
+    "posting_zero_alias": 0.04662317728319263,
+    "preferred_share": 0.209732196791731,
+    "balanced_postings": 7535,
+    "requirement_set_sizes": {
+      "Data Scientist": 26,
+      "ML/AI Engineer": 32,
+      "Data Analyst": 19,
+      "Data Engineer": 32,
+      "Business Analyst": 11,
+      "Full Stack Developer": 31,
+      "Frontend Developer": 17,
+      "Mobile Developer": 16,
+      "Cybersecurity Analyst": 21,
+      "DevOps/Cloud Engineer": 26,
+      "QA/Test Engineer": 9,
+      "Database Administrator": 15,
+      "Network/Systems Admin": 10,
+      "Software Engineer": 21
+    }
+  },
+  "top_skills": {
+    "Data Scientist": [
+      [
+        "Statistics",
+        1.7
+      ],
+      [
+        "Machine Learning",
+        1.59
+      ],
+      [
+        "R",
+        1.29
+      ],
+      [
+        "Data Analysis",
+        1.06
+      ],
+      [
+        "Python",
+        0.98
+      ],
+      [
+        "Data Structures",
+        0.95
+      ]
+    ],
+    "ML/AI Engineer": [
+      [
+        "Machine Learning",
+        2.14
+      ],
+      [
+        "Artificial Intelligence",
+        1.84
+      ],
+      [
+        "Data Structures",
+        1.19
+      ],
+      [
+        "Deep Learning",
+        1.19
+      ],
+      [
+        "PyTorch",
+        1.07
+      ],
+      [
+        "Generative AI",
+        1.07
+      ]
+    ],
+    "Data Analyst": [
+      [
+        "Data Analysis",
+        1.39
+      ],
+      [
+        "Data Visualization",
+        1.1
+      ],
+      [
+        "SQL",
+        0.85
+      ],
+      [
+        "Power BI",
+        0.82
+      ],
+      [
+        "Excel",
+        0.64
+      ],
+      [
+        "Tableau",
+        0.6
+      ]
+    ],
+    "Data Engineer": [
+      [
+        "ETL",
+        1.64
+      ],
+      [
+        "Data Warehousing",
+        1.16
+      ],
+      [
+        "SQL",
+        0.91
+      ],
+      [
+        "Spark",
+        0.89
+      ],
+      [
+        "Data Modeling",
+        0.85
+      ],
+      [
+        "Python",
+        0.79
+      ]
+    ],
+    "Business Analyst": [
+      [
+        "Business Analysis",
+        1.12
+      ],
+      [
+        "Project Management",
+        0.67
+      ],
+      [
+        "Stakeholder Management",
+        0.63
+      ],
+      [
+        "Excel",
+        0.51
+      ],
+      [
+        "JIRA",
+        0.5
+      ],
+      [
+        "Manual Testing",
+        0.44
+      ]
+    ],
+    "Full Stack Developer": [
+      [
+        "JavaScript",
+        1.18
+      ],
+      [
+        "React",
+        0.97
+      ],
+      [
+        "Microservices",
+        0.87
+      ],
+      [
+        "Java",
+        0.87
+      ],
+      [
+        "Node.js",
+        0.83
+      ],
+      [
+        "TypeScript",
+        0.81
+      ]
+    ],
+    "Frontend Developer": [
+      [
+        "HTML",
+        1.17
+      ],
+      [
+        "JavaScript",
+        1.1
+      ],
+      [
+        "React",
+        0.73
+      ],
+      [
+        "CSS",
+        0.71
+      ],
+      [
+        "Angular",
+        0.55
+      ],
+      [
+        "C#",
+        0.46
+      ]
+    ],
+    "Mobile Developer": [
+      [
+        "Android",
+        1.96
+      ],
+      [
+        "iOS",
+        1.75
+      ],
+      [
+        "Kotlin",
+        0.91
+      ],
+      [
+        "Swift",
+        0.68
+      ],
+      [
+        "React Native",
+        0.58
+      ],
+      [
+        "System Design",
+        0.58
+      ]
+    ],
+    "Cybersecurity Analyst": [
+      [
+        "Cybersecurity",
+        2.35
+      ],
+      [
+        "Incident Response",
+        0.94
+      ],
+      [
+        "Compliance",
+        0.84
+      ],
+      [
+        "Network Security",
+        0.73
+      ],
+      [
+        "SIEM",
+        0.72
+      ],
+      [
+        "Risk Assessment",
+        0.71
+      ]
+    ],
+    "DevOps/Cloud Engineer": [
+      [
+        "Terraform",
+        1.17
+      ],
+      [
+        "CI/CD",
+        0.93
+      ],
+      [
+        "Docker",
+        0.78
+      ],
+      [
+        "Kubernetes",
+        0.77
+      ],
+      [
+        "Site Reliability",
+        0.73
+      ],
+      [
+        "Cloud Computing",
+        0.7
+      ]
+    ],
+    "QA/Test Engineer": [
+      [
+        "Manual Testing",
+        0.82
+      ],
+      [
+        "Compliance",
+        0.69
+      ],
+      [
+        "Test Automation",
+        0.61
+      ],
+      [
+        "JIRA",
+        0.4
+      ],
+      [
+        "Selenium",
+        0.4
+      ],
+      [
+        "Agile",
+        0.26
+      ]
+    ],
+    "Database Administrator": [
+      [
+        "Database Administration",
+        1.76
+      ],
+      [
+        "SQL Server",
+        1.08
+      ],
+      [
+        "Oracle",
+        1.05
+      ],
+      [
+        "SQL",
+        0.8
+      ],
+      [
+        "Technical Support",
+        0.67
+      ],
+      [
+        "Linux",
+        0.48
+      ]
+    ],
+    "Network/Systems Admin": [
+      [
+        "Technical Support",
+        1.09
+      ],
+      [
+        "Networking",
+        1.07
+      ],
+      [
+        "Windows Server",
+        0.59
+      ],
+      [
+        "Network Security",
+        0.53
+      ],
+      [
+        "VMware",
+        0.5
+      ],
+      [
+        "Compliance",
+        0.37
+      ]
+    ],
+    "Software Engineer": [
+      [
+        "Java",
+        0.51
+      ],
+      [
+        "C++",
+        0.48
+      ],
+      [
+        "JavaScript",
+        0.44
+      ],
+      [
+        "Agile",
+        0.41
+      ],
+      [
+        "C#",
+        0.4
+      ],
+      [
+        "Python",
+        0.37
+      ]
+    ]
+  },
+  "resume_extraction": {
+    "items": 7414,
+    "mapped": {
+      "exact": 0.15996762881035878,
+      "alias": 0.24710008092797411,
+      "fuzzy": 0.25424871864041004
+    },
+    "items_tech": 2754,
+    "mapped_tech": {
+      "exact": 0.3286129266521423,
+      "alias": 0.4745824255628177,
+      "fuzzy": 0.4880174291938998
+    },
+    "skills_per_resume": {
+      "exact": 3.4244186046511627,
+      "alias": 5.409883720930233,
+      "fuzzy": 5.523255813953488
+    },
+    "zero_skill_share": {
+      "exact": 0.313953488372093,
+      "alias": 0.06976744186046512,
+      "fuzzy": 0.06686046511627906
+    }
+  },
+  "alpha": 0.7,
+  "alpha_cv": {
+    "0.0": 0.5381114903299204,
+    "0.1": 0.5817216533940084,
+    "0.2": 0.6052332195676906,
+    "0.3": 0.6205915813424345,
+    "0.4": 0.6344330678801668,
+    "0.5": 0.6427758816837316,
+    "0.6": 0.6497914296549109,
+    "0.7": 0.6532043989381874,
+    "0.8": 0.6516875237011756,
+    "0.9": 0.6507394766780432,
+    "1.0": 0.648274554417899
+  },
+  "train_seconds": 4.819290637969971,
+  "infer_ms": 0.317987115548702,
+  "models": {
+    "TF-IDF centroid match": {
+      "acc": 0.7235736399823087,
+      "f1": 0.722884822491092,
+      "top3": 0.929234851835471,
+      "mrr": 0.8289190145448437,
+      "family": 0.8907563025210085
+    },
+    "TF-IDF + Logistic Reg. (full text)": {
+      "acc": 0.8142414860681114,
+      "f1": 0.8189491041060629,
+      "top3": 0.9650597080937638,
+      "mrr": 0.8906889230971494,
+      "family": 0.9195046439628483
+    },
+    "Cosine to role profile": {
+      "acc": 0.5873507297655904,
+      "f1": 0.5956699675687819,
+      "top3": 0.8217602830605927,
+      "mrr": 0.7203849556016738,
+      "family": 0.793454223794781
+    },
+    "Weighted coverage only": {
+      "acc": 0.562140645731977,
+      "f1": 0.5603268629851462,
+      "top3": 0.8222025652366209,
+      "mrr": 0.7059402818911886,
+      "family": 0.7823971693940734
+    },
+    "Naive Bayes": {
+      "acc": 0.6116762494471473,
+      "f1": 0.6325562126717635,
+      "top3": 0.8558160106147722,
+      "mrr": 0.7491880717444628,
+      "family": 0.8319327731092437
+    },
+    "Logistic Regression": {
+      "acc": 0.6306943830163645,
+      "f1": 0.6513613036225541,
+      "top3": 0.8850066342326405,
+      "mrr": 0.7665980353618567,
+      "family": 0.8288367978770456
+    },
+    "Random Forest": {
+      "acc": 0.659000442282176,
+      "f1": 0.678579371887616,
+      "top3": 0.8911985846970367,
+      "mrr": 0.7836607824334493,
+      "family": 0.8429898275099513
+    },
+    "SVM (RBF)": {
+      "acc": 0.6744803184431667,
+      "f1": 0.6926860956226942,
+      "top3": 0.8951791242812914,
+      "mrr": 0.7946645042509705,
+      "family": 0.8527200353825741
+    },
+    "Proposed hybrid": {
+      "acc": 0.6775762936753649,
+      "f1": 0.695595819120424,
+      "top3": 0.8996019460415745,
+      "mrr": 0.7978881013821305,
+      "family": 0.8522777532065458
+    }
+  },
+  "per_role_f1": {
+    "Data Scientist": {
+      "hybrid": 0.7661691542288557,
+      "rf": 0.7755102040816326
+    },
+    "ML/AI Engineer": {
+      "hybrid": 0.7664670658682635,
+      "rf": 0.7904191616766467
+    },
+    "Data Analyst": {
+      "hybrid": 0.7390180878552972,
+      "rf": 0.7142857142857143
+    },
+    "Data Engineer": {
+      "hybrid": 0.755700325732899,
+      "rf": 0.7508090614886731
+    },
+    "Business Analyst": {
+      "hybrid": 0.6512605042016807,
+      "rf": 0.6205450733752621
+    },
+    "Full Stack Developer": {
+      "hybrid": 0.5669291338582677,
+      "rf": 0.5777777777777777
+    },
+    "Frontend Developer": {
+      "hybrid": 0.6173913043478261,
+      "rf": 0.546031746031746
+    },
+    "Mobile Developer": {
+      "hybrid": 0.8351648351648352,
+      "rf": 0.8275862068965517
+    },
+    "Cybersecurity Analyst": {
+      "hybrid": 0.7917737789203085,
+      "rf": 0.794044665012407
+    },
+    "DevOps/Cloud Engineer": {
+      "hybrid": 0.7076167076167076,
+      "rf": 0.7
+    },
+    "QA/Test Engineer": {
+      "hybrid": 0.6261510128913443,
+      "rf": 0.6331877729257642
+    },
+    "Database Administrator": {
+      "hybrid": 0.7547169811320755,
+      "rf": 0.6986301369863014
+    },
+    "Network/Systems Admin": {
+      "hybrid": 0.709278350515464,
+      "rf": 0.6722689075630253
+    },
+    "Software Engineer": {
+      "hybrid": 0.4507042253521127,
+      "rf": 0.39901477832512317
+    }
+  },
+  "cv": {
+    "Random Forest": {
+      "mean": 0.6650298606502986,
+      "std": 0.010005614771052829
+    },
+    "SVM (RBF)": {
+      "mean": 0.66728599867286,
+      "std": 0.0041034173414042025
+    },
+    "Proposed hybrid": {
+      "mean": 0.6759124087591241,
+      "std": 0.00706756573626772
+    }
+  },
+  "alpha_sweep": {
+    "0.0": 0.562140645731977,
+    "0.1": 0.6085802742149491,
+    "0.2": 0.6311366651923928,
+    "0.3": 0.6501547987616099,
+    "0.4": 0.6656346749226006,
+    "0.5": 0.6771340114993366,
+    "0.6": 0.6797877045555064,
+    "0.7": 0.6775762936753649,
+    "0.8": 0.6797877045555064,
+    "0.9": 0.6749226006191951,
+    "1.0": 0.6740380362671384
+  },
+  "extraction_downstream_acc": {
+    "exact": 0.6028306059265811,
+    "alias": 0.6780185758513931
+  },
+  "robustness": {
+    "drops": [
+      0,
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5
+    ],
+    "Random Forest": [
+      0.659000442282176,
+      0.6245024325519681,
+      0.562140645731977,
+      0.5386996904024768,
+      0.46970367094206106,
+      0.4086687306501548
+    ],
+    "SVM (RBF)": [
+      0.6700574966828837,
+      0.6386554621848739,
+      0.5846970367094206,
+      0.5555064130915525,
+      0.49226006191950467,
+      0.4626271561256081
+    ],
+    "Weighted coverage only": [
+      0.562140645731977,
+      0.5453339230429014,
+      0.5183547103051747,
+      0.4803184431667404,
+      0.46218487394957986,
+      0.4268022998673153
+    ],
+    "Proposed hybrid": [
+      0.6775762936753649,
+      0.653250773993808,
+      0.5948695267580717,
+      0.5630252100840336,
+      0.5024325519681557,
+      0.45599292348518355
+    ]
+  },
+  "learning_curve": [
+    [
+      263,
+      0.5254312251216275,
+      0.5409111012826183
+    ],
+    [
+      527,
+      0.5577178239716939,
+      0.5860238832375055
+    ],
+    [
+      1318,
+      0.5979655019902698,
+      0.6267138434321097
+    ],
+    [
+      2637,
+      0.6320212295444494,
+      0.6554621848739496
+    ],
+    [
+      5274,
+      0.6523662096417514,
+      0.6793454223794781
+    ]
+  ],
+  "temporal": {
+    "train_n": 3767,
+    "test_n": 3768,
+    "hybrid": 0.6077494692144374,
+    "rf": 0.5910297239915074,
+    "iid_hybrid": 0.6775762936753649,
+    "span_days": 14.202731481481482
+  },
+  "transfer": {
+    "exact": {
+      "acc": 0.3522012578616352,
+      "f1": 0.1906406093906094,
+      "top3": 0.6666666666666666,
+      "mrr": 0.5493765842822447
+    },
+    "alias": {
+      "acc": 0.36477987421383645,
+      "f1": 0.2664029909484455,
+      "top3": 0.7232704402515723,
+      "mrr": 0.5688456896004066
+    },
+    "fuzzy": {
+      "acc": 0.36477987421383645,
+      "f1": 0.26436147527655207,
+      "top3": 0.7232704402515723,
+      "mrr": 0.570128508807754,
+      "family": 0.7547169811320755
+    },
+    "rf_fuzzy": {
+      "acc": 0.3584905660377358,
+      "f1": 0.2583509019749454,
+      "top3": 0.660377358490566,
+      "mrr": 0.5583158630328441,
+      "family": 0.7295597484276729
+    },
+    "svm_fuzzy": {
+      "acc": 0.37735849056603776,
+      "f1": 0.16846303948576677,
+      "top3": 0.7295597484276729,
+      "mrr": 0.5795946890286513
+    },
+    "coverage_fuzzy": {
+      "acc": 0.2830188679245283,
+      "f1": 0.2588791326700338,
+      "top3": 0.7169811320754716,
+      "mrr": 0.5188193532533155
+    },
+    "tfidf_centroid": {
+      "acc": 0.4339622641509434,
+      "f1": 0.3151105833428822,
+      "top3": 0.7924528301886793,
+      "mrr": 0.6419012678446641,
+      "family": 0.7861635220125787
+    },
+    "family_majority": 0.6477987421383647,
+    "n": 159,
+    "classes": 11,
+    "majority": 0.33962264150943394
+  },
+  "validation": {
+    "pairs": 4085,
+    "jobs": 12,
+    "resumes": 342,
+    "pooled": {
+      "Job-ad skill overlap": 0.08349128760549518,
+      "TF-IDF cosine (resume vs job ad)": 0.20160531102894388,
+      "Unweighted coverage": 0.28319372086653705,
+      "Cosine to role profile": 0.26821486137954337,
+      "Readiness, no specificity (idf off)": 0.2893193773760194,
+      "Readiness, binary mentions": 0.2908658509329137,
+      "Readiness (proposed)": 0.2862433478486846
+    },
+    "within": {
+      "Job-ad skill overlap": {
+        "spearman": 0.05013483514950498,
+        "top1_in_top3": 0.5576036866359447,
+        "ndcg3": 0.9153124751209829
+      },
+      "TF-IDF cosine (resume vs job ad)": {
+        "spearman": 0.08821888562246155,
+        "top1_in_top3": 0.3834808259587021,
+        "ndcg3": 0.8779454933752836
+      },
+      "Unweighted coverage": {
+        "spearman": 0.20482844706411332,
+        "top1_in_top3": 0.47735191637630664,
+        "ndcg3": 0.9152027696790096
+      },
+      "Cosine to role profile": {
+        "spearman": 0.18254264966252745,
+        "top1_in_top3": 0.49825783972125437,
+        "ndcg3": 0.9169320581437111
+      },
+      "Readiness, no specificity (idf off)": {
+        "spearman": 0.19513188462176906,
+        "top1_in_top3": 0.5156794425087108,
+        "ndcg3": 0.9224875825899934
+      },
+      "Readiness, binary mentions": {
+        "spearman": 0.19307013683724802,
+        "top1_in_top3": 0.5087108013937283,
+        "ndcg3": 0.9205095282767858
+      },
+      "Readiness (proposed)": {
+        "spearman": 0.1932023311778724,
+        "top1_in_top3": 0.5017421602787456,
+        "ndcg3": 0.9196640191558766
+      }
+    },
+    "per_job": {
+      "AI Engineer": 0.3328251303708963,
+      "Data Engineer": 0.11572518685518648,
+      "Data Science Engineer": 0.5758339054723671,
+      "Database Administrator (DBA)": 0.1071755078432229,
+      "DevOps Engineer": 0.17392413299605292,
+      "Full Stack Developer (Python,React js)": 0.44161093305133986,
+      "Intern (Generative AI Engineering - 2D/3D Image Generation)": 0.5286220077726808,
+      "Machine Learning (ML) Engineer": 0.3767911384374094,
+      "Network Support Engineer": 0.10946994497929212,
+      "Senior Software Engineer": 0.4505519169646458,
+      "Senior iOS Engineer": 0.3135790026185832,
+      "System Administrator (Operation & Maintenance of Server, Storage & Service Desk System)": 0.07388752905889778
+    },
+    "jobs_with_required_list": 8
+  },
+  "regression": {
+    "Ridge": {
+      "r2": 0.08316954260066689,
+      "mae": 0.09794163268841281,
+      "rho": 0.27775315591114436
+    },
+    "Ridge + job id": {
+      "r2": 0.21963794472831688,
+      "mae": 0.09000847619092399,
+      "rho": 0.4450360918350959
+    },
+    "Random Forest": {
+      "r2": 0.07243769496544239,
+      "mae": 0.09731236305492418,
+      "rho": 0.3240257375932565
+    },
+    "Random Forest + job id": {
+      "r2": 0.255664495223737,
+      "mae": 0.08688714261646469,
+      "rho": 0.4786481458781423
+    },
+    "SVR (RBF)": {
+      "r2": 0.05114289624395196,
+      "mae": 0.09616573562851728,
+      "rho": 0.27817645031254845
+    },
+    "SVR (RBF) + job id": {
+      "r2": 0.26891269655390804,
+      "mae": 0.08478091524624169,
+      "rho": 0.4952958428876441
+    },
+    "Mean baseline": {
+      "r2": 0.0,
+      "mae": 0.1022414749531635,
+      "rho": 0.0
+    }
+  },
+  "skill_recovery": {
+    "importance": 0.5623285864978903,
+    "frequency (no idf)": 0.6009757383966243,
+    "popularity": 0.4005142405063291,
+    "random": 0.3647415611814346,
+    "n": 1264
+  },
+  "importance_ablation": {
+    "Proposed (freq x idf, required/preferred)": {
+      "cov_acc": 0.562140645731977,
+      "recovery": 0.5709783755274261,
+      "n_req": 20.428571428571427,
+      "rho": 0.2862433478486846
+    },
+    "No specificity (freq only)": {
+      "cov_acc": 0.5572755417956656,
+      "recovery": 0.5944224683544304,
+      "n_req": 20.428571428571427,
+      "rho": 0.2893193773760194
+    },
+    "Binary mentions (no required/preferred)": {
+      "cov_acc": 0.5586023883237505,
+      "recovery": 0.5491189748070482,
+      "n_req": 22.285714285714285,
+      "rho": 0.2908658509329137
+    }
+  },
+  "roadmap": {
+    "proposed": {
+      "g100": 21.737174496730695,
+      "g200": 34.93198651440818,
+      "g300": 44.50766492179688,
+      "reach50": 100.0
+    },
+    "importance": {
+      "g100": 16.208741926956204,
+      "g200": 28.336995535007215,
+      "g300": 38.242753602512394,
+      "reach50": 88.67924528301887
+    },
+    "popularity": {
+      "g100": 11.468914382098403,
+      "g200": 20.25887413496288,
+      "g300": 27.939283117810852,
+      "reach50": 66.0377358490566
+    },
+    "random": {
+      "g100": 10.770485667112446,
+      "g200": 21.33291342169648,
+      "g300": 29.71614986743642,
+      "reach50": 67.9245283018868
+    }
+  },
+  "readiness_before": {
+    "mean": 24.899436063350958,
+    "median": 24.839470978807686,
+    "n": 159
+  },
+  "stability": {
+    "25": 0.7854982200541725,
+    "50": 0.8380507961462902,
+    "100": 0.900657391321231,
+    "200": 0.9420134503552282,
+    "400": 0.9757870353636251
+  },
+  "temporal_importance": {
+    "mean_rho": 0.7673501171147195,
+    "top10_overlap": 0.807142857142857,
+    "biggest_rise": [
+      [
+        "C++",
+        4.55
+      ],
+      [
+        "C#",
+        4.51
+      ],
+      [
+        "Python",
+        3.84
+      ]
+    ]
+  },
+  "salary": {
+    "n": 2959,
+    "r2": 0.37315095873745996,
+    "median": 128554.5,
+    "top": [
+      [
+        "Artificial Intelligence",
+        8.16,
+        3.47
+      ],
+      [
+        "Kubernetes",
+        7.84,
+        2.59
+      ],
+      [
+        "Linux",
+        7.38,
+        3.6
+      ],
+      [
+        "Machine Learning",
+        6.45,
+        2.35
+      ],
+      [
+        "Python",
+        6.41,
+        3.87
+      ]
+    ],
+    "bottom": [
+      [
+        "Technical Support",
+        -12.28,
+        -7.66
+      ],
+      [
+        "Git",
+        -8.23,
+        -4.27
+      ],
+      [
+        "SQL",
+        -4.84,
+        -3.05
+      ]
+    ],
+    "n_sig": 13,
+    "n_sk": 30
+  },
+  "sample": {
+    "role": "ML/AI Engineer",
+    "readiness": 45.59360630301023,
+    "held": [
+      "C++",
+      "CSS",
+      "Computer Vision",
+      "Data Structures",
+      "Deep Learning",
+      "HTML",
+      "Java",
+      "JavaScript",
+      "Keras",
+      "MATLAB",
+      "Machine Learning",
+      "NLP"
+    ],
+    "n_held": 17,
+    "steps": [
+      [
+        "Artificial Intelligence",
+        35,
+        "Data & ML"
+      ],
+      [
+        "Stakeholder Management",
+        15,
+        "Testing & Process"
+      ],
+      [
+        "Generative AI",
+        50,
+        "Data & ML"
+      ],
+      [
+        "Agile",
+        10,
+        "Testing & Process"
+      ],
+      [
+        "PyTorch",
+        50,
+        "Data & ML"
+      ],
+      [
+        "Git",
+        12,
+        "Cloud & DevOps"
+      ],
+      [
+        "LLMs",
+        60,
+        "Data & ML"
+      ]
+    ]
+  },
+  "runtime_total_seconds": 137.16320204734802
+}
